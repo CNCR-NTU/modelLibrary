@@ -1,0 +1,58 @@
+/home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/IAF.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/IAF.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Compiling entity IAF
+-- Compiling architecture IAF_arch of IAF
+
+} {} {}} /home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/IZK.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/IZK.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Compiling entity IZK
+-- Compiling architecture IZK_arch of IZK
+
+} {} {}} /home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/LIF.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/pmachado/Dropbox/NTU/Si-Elegans/Development/ModelLibrary/LIF.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Compiling entity LIF
+-- Compiling architecture LIF_arch of LIF
+
+} {} {}}
